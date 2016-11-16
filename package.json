@@ -1,0 +1,19 @@
+{
+  "name": "mymodule",
+  "version": "1.0.1",
+  "description": "My first Module",
+  "main": "lib/mymodule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mymodule"
+  ],
+  "author": "Joel Su",
+  "license": "MIT",
+  "directories": {
+   "doc":".",
+   "test":"test",
+   "example":"examples"
+  }
+}
